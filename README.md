@@ -1,6 +1,6 @@
-# Web-Scrapping-Movie-Details---imbd.com
+# Web-Scrapping-Movie-Details---imdb.com
 
-Collected various data on the 1050 movies released between 01/01/2021 and 31/12/2021 from imbd.com
+Collected various data on the 1050 movies released between 01/01/2021 and 31/12/2021 from imdb.com
 
 ## Programming Language 
 PYTHON3
@@ -19,7 +19,7 @@ PYTHON3
 3. Certification
 4. Duration
 5. Genre
-6. Imbd Ratings
+6. Imdb Ratings
 7. Metascore
 8. Votes
 
